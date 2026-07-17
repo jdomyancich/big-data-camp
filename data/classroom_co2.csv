@@ -1,0 +1,134 @@
+﻿Class Hour,CO2 Level (ppm),Number of People in Room,Room Temperature (°F),Windows Open/Closed,Door Open/Closed,Activity Level (Sitting/Standing/Moving Around),Outdoor Temperature (°F)
+1,831,18,77,Closed,Closed,Sitting,42
+2,829,18,76,Closed,Closed,Sitting,45
+3,887,22,77,Closed,Closed,Sitting,48
+4,494,0,77,Closed,Closed,Sitting,49
+5,465,1,77,Closed,Closed,Sitting,50
+6,443,1,77,Closed,Closed,Sitting,51
+7,602,12,77,Closed,Closed,Sitting,52
+1,732,15,75,Closed,Closed,Sitting,42
+2,669,1,75,Closed,Closed,Sitting,45
+3,800,19,75,Closed,Closed,Sitting,48
+4,877,19,76,Closed,Closed,Sitting,49
+5,884,19,76,Closed,Closed,Sitting,50
+6,493,1,75,Closed,Closed,Sitting,51
+7,792,17,76,Closed,Closed,Sitting,52
+1,871,17,76,,Closed,Sitting,42
+2,684,0,76,,Closed,Sitting,45
+3,1155,25,76,,Closed,Sitting,48
+4,1081,20,77,,Closed,Sitting,49
+5,944,22,77,,Closed,Sitting,50
+6,645,4,77,,Closed,Sitting,51
+7,630,10,77,,Open,Sitting,51
+1,760,27,75,Closed,Closed,Sitting,42
+2,716,14,75,Closed,Closed,Sitting,45
+3,628,13,74,Closed,Closed,Sitting,48
+4,748,25,74,Closed,Closed,Sitting,49
+5,449,1,74,Closed,Closed,Sitting,50
+6,413,0,74,Closed,Closed,,51
+7,770,28,75,Closed,Closed,Sitting,51
+1,836,25,74,Closed,Closed,Sitting,42
+2,875,23,74,Closed,Closed,Sitting,45
+3,1800*,26,75,Closed,Closed,Walking around talking loudly,48
+4,Sensor replaced*,,,,,,49
+5,795,22,76,Closed,Closed,Sitting,50
+6,502,4,76,Closed,Closed,Sitting,51
+7,630,20,76,Closed,Closed,Sitting,51
+1,773,21,72,Closed,Closed,Sitting,42
+2,790,21,73,Closed,Closed,Sitting,45
+3,508,1,72,Closed,Closed,Sitting,48
+4,674,14,73,Closed,Open,Sitting,49
+5,790,20,73,Closed,Closed,Sitting,50
+6,496,1,72,Closed,Closed,Sitting,51
+7,700,14,73,Closed,Closed,Sitting,51
+1,687,20,73,Closed,Open,Sitting,42
+2,700,20,73,Closed,Open,Sitting,45
+3,451,0,72,Closed,Closed,,48
+4,606,16,72,Closed,Closed,Sitting,49
+5,450,0,72,Closed,Closed,,50
+6,440,0,72,Closed,Closed,,51
+7,422,0,72,Closed,Closed,,51
+1,566,1,76,Closed,Closed,Sitting,42
+2,891,19,77,Closed,Closed,Sitting,45
+3,893,16,77,Closed,Closed,Sitting,48
+4,545,0,77,Closed,Closed,,49
+5,885,17,77,Closed,Closed,Sitting,50
+6,527,0,77,Closed,Open,,51
+7,1126,25,77,Closed,Closed,Sitting,51
+1,584,17,74,2 open,Closed,Sitting,
+2,566,16,75,2 open,Closed,Sitting,
+3,596,24,75,2 open,Closed,Sitting,
+4,467,1,73,2 open,Open,Sitting,
+5,530,20,74,1 open ,Open,Moving around,
+6,458,1,73,1 open ,Open,Sitting,
+7,557,19,75,1 open ,Closed,Sitting,
+1,600,3,82,2 open,2 open,Sitting,42
+2,617,0,81,2 open,2 open,Sitting,45
+3,549,2,81,2 open,2 open,Sitting,48
+4,566,25,81,2 open,2 open,Standing,49
+5,544,0,80,2 open,2 open,Standing,50
+6,632,25,81,4 open,1 open,Standing,51
+7,490,1,80,4 open,1 open,Standing,51
+1,786,16,77,Closed,Closed,Sitting,42
+2,857,17,77,Closed,Closed,Sitting,45
+3,1024,26,77,Closed,Closed,Sitting,48
+4,973,27,77,Closed,Open,Sitting,49
+5,527,0,76,Closed,Open,,50
+6,587,14,76,2 Open ,Closed,Sitting,51
+7,492,2,75,Closed,Open,Sitting,51
+1,597,9,73,Closed,Open,Sitting,42
+2,625,8,74,Closed,Open,Sitting,45
+3,615,12,74,Closed,Open,Sitting,48
+4,532,6,74,Closed,Open,Sitting,49
+5,488,4,74,Closed,Open,Sitting,50
+6,488,3,74,Closed,Open,Sitting,51
+7,448,0,74,Closed,Open,Sitting,51
+1,671,21,80,2 open,Open,Sitting,42
+2,637,24,80,2 open,Open,Sitting,45
+3,655,13,80,2 open,Open,Sitting,48
+4,566,16,78,2 open,Closed,Sitting,49
+5,463,0,76,2 open,Open,,50
+6,678,21,77,1 open,Open,Sitting,51
+7,421,0,76,1 open,Open,,51
+1,553,14,76,Closed,1 open,Sitting,42
+2,558,12,76,Closed,1 open,Sitting,45
+3,456,18,76,Closed,1 open,Sitting,48
+4,582,21,77,Closed,1 open,Sitting,49
+5,475,1,77,Closed,1 open,Sitting,50
+6,545,15,76,Closed,1 open,Sitting,51
+7,553,17,76,Closed,1 open,Sitting,51
+1,830,18,75,Closed,Open,Sitting,42
+2,765,16,75,Closed,Open,Sitting,45
+3,450,0,74,Closed,Open,Sitting,48
+4,756,17,75,Closed,Open,Sitting,49
+5,475,1,74,Closed,Open,Sitting,50
+6,727,16,74,Closed,Open,Sitting,51
+7,822,15,74,Closed,Open,Sitting,51
+1,461,0,70,Closed,Open,Sitting,42
+2,470,0,72,Closed,Open,Sitting,45
+3,465,0,72,Closed,Open,Sitting,48
+4,824,22,72,Closed,Closed,Sitting,49
+5,513,0,72,Closed,Open,,50
+6,892,25,73,Closed,Open,Sitting,51
+7,536,0,72,Closed,Closed,,51
+1,619,13,76,Closed,Open,Sitting,42
+2,478,1,76,Closed,Open,Sitting,45
+3,470,1,76,Closed,Open,Sitting,48
+4,644,25,76,Closed,Open,Sitting,49
+5,519,1,76,Closed,Open,Sitting,50
+6,594,15,76,Closed,Open,Sitting,51
+7,683,22,76,Closed,Open,Sitting,51
+1,569,16,73,Closed,Open,Sitting,42
+2,455,1,74,Closed,Closed,Sitting,45
+3,577,20,74,Closed,Open,Sitting,48
+4,661,28,73,Closed,Open,Sitting,49
+5,500,1,74,Closed,Open,Sitting,50
+6,551,19,74,Closed,Open,Sitting,51
+7,567,20,75,Closed,Open,Sitting,51
+1,626,17,71,Closed,Open,Sitting,42
+2,738,27,72,Closed,Open,Sitting,45
+3,620,15,72,Closed,Open,Sitting,48
+4,449,0,72,Closed,Open,,49
+5,444,0,72,Closed,Open,,50
+6,550,17,73,Closed,Open,Sitting,51
+7,545,11,73,Closed,Open,Sitting,51
